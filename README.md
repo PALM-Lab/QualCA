@@ -1,5 +1,7 @@
 # _QualCA_ – Qualitative Coding App
 
+![image](https://palm-lab.github.io/images/qualCA_logo.png)
+
 **_QualCA_** (pronounced _quokka_, like the small Australian marsupial) is a lightweight in-browser _R Shiny_ app for extracting and coding texts for qualitative analysis.
 
 # How to use the app
